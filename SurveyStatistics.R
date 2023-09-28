@@ -1,3 +1,4 @@
+#The function takes the dataframe and a list of column names 
 SurveyStatistics<-function(data, cols_to_analyze) {
   
   #create new dataframe where i will put results. 
